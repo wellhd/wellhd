@@ -1,6 +1,6 @@
 ## Olá! Eu sou Wellington Campos dos Santos✌️
 
-## Graduação em Matemática, Pós-Graduado em Engenharia da Computação, Técnico de informática para internet - Full Stack em formação ✌️
+## Graduado em Matemática, Pós-Graduado em Engenharia da Computação, Técnico de informática para internet - Full Stack ✌️
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-campos-dos-santos-3a9494117/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](developer.cswell@gmail.com)
